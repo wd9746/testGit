@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da7ec2e-2217-471e-a0d3-bd6c336a95ec" name="Default Changelist" comment="" />
+    <list default="true" id="4da7ec2e-2217-471e-a0d3-bd6c336a95ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dt/test_git/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dt/test_git/pojo/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,13 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dG2JyvJ0IcrFtht9VoJOqPg7rc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -72,14 +83,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592037040799</updated>
-      <workItem from="1592037043324" duration="3000" />
+      <workItem from="1592037043324" duration="242000" />
     </task>
+    <task id="LOCAL-00001" summary="create git test">
+      <created>1592037162370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592037162370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="create git test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="227" y="55" key="CommitChangelistDialog2" timestamp="1592037161244">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="227" y="55" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1592037161244" />
+    <state x="138" y="75" key="DiffContextDialog" timestamp="1592037123846">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="138" y="75" key="DiffContextDialog/0.0.1440.920@0.0.1440.920" timestamp="1592037123846" />
     <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1592037082796">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1592037082796" />
+    <state x="313" y="197" key="Vcs.Push.Dialog.v2" timestamp="1592037211040">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1592037211040" />
   </component>
 </project>
