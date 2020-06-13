@@ -10,4 +10,5 @@ public class Person {
 
     private String name;//姓名
     private int age;
+    private String sex;//性别
 }
